@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+body{
+    background-color: rgb(255, 153, 0);
+    cursor: url(img/Capa\ 1.png), auto;
+}
+button{
+    cursor: url(img/Recurso\ 1.png), auto;
+}
+label{
+    cursor: url(img/Recurso\ 1.png), auto;
+}
+
+h1{
+    font-family:Agbalumo ;
+}
+h4{
+   font-family:Agbalumo ; 
+}
+
